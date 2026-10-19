@@ -14,7 +14,7 @@ Demoz-Quiz fonksiyonlari kullanip soru uretmemizi saglayan ve class obje tanimla
 #Culculator
 Basit bir hesap makinesi if else while true anlamimizi saglayan basit bir uygulama
 FOR ENGLİSH LANGUAGE
-# ATM, Number Guessing Game, and Demo Quiz
+# ATM, Number Guessing Game, Culculator and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
 
 #ATM
