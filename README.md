@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7 ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -19,6 +19,12 @@ Uygulamanin Arayuzunu Olustururdum Label Button Entry komutlari ile
 
 #While
 Dongunun hep calismasini saglar dogru deger oldukca
+
+#Yapayzekaylatekrargünü7
+Basit bir sinif tanimlama bilgi vererek fonksiyon calisma mantigini ogretir
+
+
+
 FOR ENGLİSH LANGUAGE
 # ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2 and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
@@ -40,3 +46,6 @@ Creating the application's interface using label, button, and input commands
 
 #While
 Ensures the loop keeps running as long as the value remains true.
+
+#ArtificialIntelligenceReviewDay7
+Defining a simple class provides insight into how functions work.
