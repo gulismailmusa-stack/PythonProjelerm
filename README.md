@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7 ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -23,6 +23,8 @@ Dongunun hep calismasini saglar dogru deger oldukca
 #Yapayzekaylatekrargünü7
 Basit bir sinif tanimlama bilgi vererek fonksiyon calisma mantigini ogretir
 
+#Variables-demo
+BASİT DEGİSKENLERİ TANİMLAYARAK YAPTİGİZ BİR UGLAMA BİRDEN FAZLA STRİGİN NASİL YAPİLACAGİNİDA OGRENDİK
 
 
 FOR ENGLİSH LANGUAGE
@@ -49,3 +51,6 @@ Ensures the loop keeps running as long as the value remains true.
 
 #ArtificialIntelligenceReviewDay7
 Defining a simple class provides insight into how functions work.
+
+#Variables-demo
+In an application created by defining simple variables, we also learned how to handle multiple strings.
