@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -16,6 +16,9 @@ Basit bir hesap makinesi if else while true anlamimizi saglayan basit bir uygula
 
 #Culculator2
 Uygulamanin Arayuzunu Olustururdum Label Button Entry komutlari ile
+
+#Type-conversion
+cumlelerin turlerini gormemizi basit bir sekilde gosterir
 
 #While
 Dongunun hep calismasini saglar dogru deger oldukca
@@ -54,3 +57,6 @@ Defining a simple class provides insight into how functions work.
 
 #Variables-demo
 In an application created by defining simple variables, we also learned how to handle multiple strings.
+
+#Type-conversion
+It provides a simple way for us to see the types of sentences.
