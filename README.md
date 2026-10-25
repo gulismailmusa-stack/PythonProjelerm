@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -29,6 +29,9 @@ Basit bir sinif tanimlama bilgi vererek fonksiyon calisma mantigini ogretir
 #Variables-demo
 BASİT DEGİSKENLERİ TANİMLAYARAK YAPTİGİZ BİR UGLAMA BİRDEN FAZLA STRİGİN NASİL YAPİLACAGİNİDA OGRENDİK
 
+#Specials
+Basit bir sekilde yapici metodun ne oldugunu ve class bir yere atarak onunla neler yapabilecegimizi ogrendik
+
 
 FOR ENGLİSH LANGUAGE
 # ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2 and Demo Quiz
@@ -54,6 +57,9 @@ Ensures the loop keeps running as long as the value remains true.
 
 #ArtificialIntelligenceReviewDay7
 Defining a simple class provides insight into how functions work.
+
+#Specials
+We learned, in simple terms, what a constructor method is and what we can do with it by incorporating it into a class.
 
 #Variables-demo
 In an application created by defining simple variables, we also learned how to handle multiple strings.
