@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue. ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -32,6 +32,9 @@ BASİT DEGİSKENLERİ TANİMLAYARAK YAPTİGİZ BİR UGLAMA BİRDEN FAZLA STRİG�
 #Specials
 Basit bir sekilde yapici metodun ne oldugunu ve class bir yere atarak onunla neler yapabilecegimizi ogrendik
 
+#Break-continue
+Break ve continue ne oldugunu basit bir sakilde aciklayan proje contiune yazdirmaz devam eder break hic yazdirmaz sectigin sayi ve sonrasini
+
 
 FOR ENGLİSH LANGUAGE
 # ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2 and Demo Quiz
@@ -61,6 +64,8 @@ Defining a simple class provides insight into how functions work.
 #Specials
 We learned, in simple terms, what a constructor method is and what we can do with it by incorporating it into a class.
 
+#Break-and-Continue
+A project that explains the relationship between "break" and "continue" in simple terms: "continue" skips the current iteration (it doesn't print the value), while "break" stops the loop entirely—meaning it won't print the number you selected or any subsequent numbers.
 #Variables-demo
 In an application created by defining simple variables, we also learned how to handle multiple strings.
 
