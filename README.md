@@ -35,6 +35,7 @@ Basit bir sekilde yapici metodun ne oldugunu ve class bir yere atarak onunla nel
 #Break-continue
 Break ve continue ne oldugunu basit bir sakilde aciklayan proje contiune yazdirmaz devam eder break hic yazdirmaz sectigin sayi ve sonrasini
 
+#Dictionary
 
 FOR ENGLİSH LANGUAGE
 # ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2 and Demo Quiz
