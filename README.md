@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue. ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -36,9 +36,9 @@ Basit bir sekilde yapici metodun ne oldugunu ve class bir yere atarak onunla nel
 Break ve continue ne oldugunu basit bir sakilde aciklayan proje contiune yazdirmaz devam eder break hic yazdirmaz sectigin sayi ve sonrasini
 
 #Dictionary
-
+Basit bir sozluk kurma mantigi key value degerlerini girerek yaptigimiz kucuk bir alistirma
 FOR ENGLİSH LANGUAGE
-# ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2 and Demo Quiz
+# ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
 
 #ATM
@@ -72,3 +72,6 @@ In an application created by defining simple variables, we also learned how to h
 
 #Type-conversion
 It provides a simple way for us to see the types of sentences.
+
+#Dictionary
+A small exercise based on a simple word-construction logic, where we input key-value pairs.
