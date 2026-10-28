@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance, ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -37,6 +37,9 @@ Break ve continue ne oldugunu basit bir sakilde aciklayan proje contiune yazdirm
 
 #Dictionary
 Basit bir sozluk kurma mantigi key value degerlerini girerek yaptigimiz kucuk bir alistirma
+
+#Inheritance
+kalitimdan baska bir clasa aktarmayi saglar ve onunla yapilacak cumleleri olustururuz 
 FOR ENGLİSH LANGUAGE
 # ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
@@ -75,3 +78,6 @@ It provides a simple way for us to see the types of sentences.
 
 #Dictionary
 A small exercise based on a simple word-construction logic, where we input key-value pairs.
+
+#Inheritance
+Enables the transfer of properties/functionality to another class and facilitates the construction of statements using that class.
