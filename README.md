@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance, ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -40,6 +40,9 @@ Basit bir sozluk kurma mantigi key value degerlerini girerek yaptigimiz kucuk bi
 
 #Inheritance
 kalitimdan baska bir clasa aktarmayi saglar ve onunla yapilacak cumleleri olustururuz 
+
+#Operators
+Operator mantigini is not gibi ifadeleri nasil kullanacagimi ogrendim
 FOR ENGLİSH LANGUAGE
 # ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
@@ -75,6 +78,9 @@ In an application created by defining simple variables, we also learned how to h
 
 #Type-conversion
 It provides a simple way for us to see the types of sentences.
+
+#Operators
+I learned how to use operator logic and expressions like `is` and `not`.
 
 #Dictionary
 A small exercise based on a simple word-construction logic, where we input key-value pairs.
