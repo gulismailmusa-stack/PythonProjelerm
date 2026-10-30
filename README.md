@@ -1,5 +1,5 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #ATM
@@ -43,6 +43,9 @@ kalitimdan baska bir clasa aktarmayi saglar ve onunla yapilacak cumleleri olustu
 
 #Operators
 Operator mantigini is not gibi ifadeleri nasil kullanacagimi ogrendim
+
+#Format
+format metodunun nasil calistigini degisken olusturmayi ve suslu parantez icerir
 FOR ENGLİSH LANGUAGE
 # ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
@@ -87,3 +90,6 @@ A small exercise based on a simple word-construction logic, where we input key-v
 
 #Inheritance
 Enables the transfer of properties/functionality to another class and facilitates the construction of statements using that class.
+
+#Format
+Covers how the `format` method works, how to create variables, and the use of curly braces.
