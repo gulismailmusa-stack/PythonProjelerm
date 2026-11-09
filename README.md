@@ -1,6 +1,9 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing. ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,label ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
+
+#label
+LABEL ETİKETİNİNASİL KURDUGUMU ogrendim
 
 #ATM
 burada kendi atm proje yaptim ve ayni bir atm uygulamasi gibi calisir
@@ -101,6 +104,9 @@ Enables the transfer of properties/functionality to another class and facilitate
 
 #String-slicing
 Teaches how to work with text using variables and how to find indices.
+
+#label
+I learned how to set up the LABEL tag.
 
 #Format
 Covers how the `format` method works, how to create variables, and the use of curly braces.
