@@ -1,9 +1,12 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,label ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,label,placement ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
 #label
 LABEL ETİKETİNİNASİL KURDUGUMU ogrendim
+
+#placement
+label yerlestirmeyi ve yaziyazma yontemini ogrendim
 
 #ATM
 burada kendi atm proje yaptim ve ayni bir atm uygulamasi gibi calisir
@@ -58,7 +61,7 @@ degiskenlerle sayi yazmayi ve indeks bulmayi ogretir
 
 
 FOR ENGLİSH LANGUAGE
-# ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary and Demo Quiz
+# ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,label,placement  and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
 
 #ATM
@@ -84,6 +87,9 @@ Defining a simple class provides insight into how functions work.
 
 #Specials
 We learned, in simple terms, what a constructor method is and what we can do with it by incorporating it into a class.
+
+#homework
+I learned how to place labels and write text.
 
 #Break-and-Continue
 A project that explains the relationship between "break" and "continue" in simple terms: "continue" skips the current iteration (it doesn't print the value), while "break" stops the loop entirely—meaning it won't print the number you selected or any subsequent numbers.
