@@ -1,7 +1,9 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,label,placement,BUTTON ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
+#Entry
+cevap yazma butonunu ogrendim
 #BUTTON
 Button koymayi ve kodlarla iliskisini kurmayi ogrendim
 #label
@@ -92,6 +94,9 @@ Defining a simple class provides insight into how functions work.
 
 #Specials
 We learned, in simple terms, what a constructor method is and what we can do with it by incorporating it into a class.
+
+#Entry
+I learned how to use the reply button
 
 #homework
 I learned how to place labels and write text.
