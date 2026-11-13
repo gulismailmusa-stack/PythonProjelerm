@@ -1,7 +1,9 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
+#frame
+bir pencere yer kelemesini ve tkinter yerini kulllanmasini saglar
 #Entry
 cevap yazma butonunu ogrendim
 #BUTTON
@@ -108,6 +110,9 @@ In an application created by defining simple variables, we also learned how to h
 
 #Type-conversion
 It provides a simple way for us to see the types of sentences.
+
+#frame
+allows a window to use each word and tkinter location.
 
 #Operators
 I learned how to use operator logic and expressions like `is` and `not`.
