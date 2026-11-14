@@ -1,0 +1,20 @@
+# python tk-grid-layout.py
+from tkinter import * 
+window=Tk()
+window.geometry("280x130")
+window.title("grid layout")
+window.resizable(height=False,width=False)
+window.columnconfigure(0,weight=1) 
+window.columnconfigure(1,weight=3) 
+username_label=Label(window,text="Username")
+username_label.grid(column=0,row=0,sticky="w",padx=5,pady=5)
+username_entry=Entry(window)  
+username_entry.grid(column=1,row=0,padx=5,pady=5)
+
+password_label=Label(window,text="password")
+password_label.grid(column=0,row=1,sticky="w",padx=5,pady=5)
+password_entry=Entry(window)  
+password_entry.grid(column=1,row=1,sticky="we",padx=5,pady=5)
+button_login=Button(window,text="login")
+button_login.grid(column=1,row=2,sticky="e",padx=5,pady=5)
+window.mainloop()   
