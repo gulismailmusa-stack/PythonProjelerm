@@ -1,7 +1,9 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
+#layout
+basit ama islevsiz bir pencere kisa bir tekrar icin mukemmmel
 #frame
 bir pencere yer kelemesini ve tkinter yerini kulllanmasini saglar
 #Entry
@@ -78,6 +80,9 @@ The number guessing game generates a random number, allowing the user to try and
 
 # Demo Quiz
 This is an application that uses functions and class/object definitions to generate questions.
+
+#layout
+A simple but dysfunctional window, perfect for a quick review.
 
 #BUTTON
 I learned how to add a button and establish its connection with the code.
