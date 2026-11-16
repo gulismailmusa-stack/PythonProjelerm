@@ -1,9 +1,13 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout,wikipedia ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout,wikipedia,uygulama-listboxve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
+
+#uygulama-listbox
+cok kapsamli ve guzel calisma baya lod ve uzmanlik var bana get set vsrede ogretti
 
 #wikipedia
 KOLAY BİR WİKİPEDİA UYGULAMASİ BUTTON FRAME VE Wikipedia kullanilmistir
+
 #layout
 basit ama islevsiz bir pencere kisa bir tekrar icin mukemmmel
 
@@ -80,6 +84,9 @@ These are Python projects that I have either built on my own or developed by fol
 
 #ATM
 I created an ATM project here, which functions just like a real-world ATM application.
+
+#application-listbox
+A very comprehensive and well-executed project; it shows a great deal of effort and expertise. It even taught me things like getters and setters.
 
 #NUMBER GUESSING GAME
 The number guessing game generates a random number, allowing the user to try and guess it.
