@@ -1,15 +1,21 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout,wikipedia ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
+#wikipedia
+KOLAY BİR WİKİPEDİA UYGULAMASİ BUTTON FRAME VE Wikipedia kullanilmistir
 #layout
 basit ama islevsiz bir pencere kisa bir tekrar icin mukemmmel
+
 #frame
 bir pencere yer kelemesini ve tkinter yerini kulllanmasini saglar
+
 #Entry
 cevap yazma butonunu ogrendim
+
 #BUTTON
 Button koymayi ve kodlarla iliskisini kurmayi ogrendim
+
 #label
 LABEL ETİKETİNİNASİL KURDUGUMU ogrendim
 
@@ -92,6 +98,9 @@ A simple application that helps us understand `if`, `else`, and `while True` con
 
 #Calculator 2
 Creating the application's interface using label, button, and input commands
+
+#wikipedia
+KOLAY BİR WİKİMEDİA UYGULAMASİ BUTON FRAME VE Wikimedia kullanılmıştır
 
 #While
 Ensures the loop keeps running as long as the value remains true.
