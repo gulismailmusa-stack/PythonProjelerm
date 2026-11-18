@@ -1,7 +1,9 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout,wikipedia,uygulama-listbox,treeview ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout,wikipedia,scale,uygulama-listbox,treeview ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
+#scale 
+scale ogrendim 
 #treeview
 tablo yapmayi heading value f string var ogrendim
 
@@ -44,6 +46,8 @@ Basit bir hesap makinesi if else while true anlamimizi saglayan basit bir uygula
 #Culculator2
 Uygulamanin Arayuzunu Olustururdum Label Button Entry komutlari ile
 
+#scale 
+i did to learn scale
 #Type-conversion
 cumlelerin turlerini gormemizi basit bir sekilde gosterir
 
