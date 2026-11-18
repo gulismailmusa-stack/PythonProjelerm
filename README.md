@@ -86,7 +86,7 @@ degiskenlerle sayi yazmayi ve indeks bulmayi ogretir
 
 
 FOR ENGLİSH LANGUAGE
-# ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,label,placement  and Demo Quiz
+# ATM, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary,SCALE, Inheritance,Operators,Format,Opp,String-slicing,label,placement  and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
 
 #ATM
