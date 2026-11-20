@@ -1,7 +1,9 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout,wikipedia,scale,uygulama-listbox,treeview ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,progressbar,Format,Opp,String-slicing,ENTRY,label,placement,BUTTON,frame,layout,wikipedia,scale,uygulama-listbox,treeview ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
+#progressbar
+SUREC bari nasil yapilacagini ogrendim
 #scale 
 scale ogrendim 
 #treeview
@@ -141,6 +143,9 @@ It provides a simple way for us to see the types of sentences.
 
 #frame
 allows a window to use each word and tkinter location.
+
+#progressbar
+SUREC bari nasil yapilacagini ogrendim
 
 #Operators
 I learned how to use operator logic and expressions like `is` and `not`.
