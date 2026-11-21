@@ -1,7 +1,9 @@
 FOR TURKSH LANGUAGE
-# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,progressbar,Format,Opp,String-slicing,ENTRY,radio-button,label,placement,BUTTON,frame,layout,wikipedia,scale,uygulama-listbox,treeview ve Demo_Quiz
+# Atm ,Sayi_Tahmin_ ,Culculator_Version_1, Culcular_Version_2,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary, Inheritance,Operators,progressbar,dataentry,Format,Opp,String-slicing,ENTRY,radio-button,label,placement,BUTTON,frame,layout,wikipedia,scale,uygulama-listbox,treeview ve Demo_Quiz
 Pythonda kendi başına yaptığım ya da bir kanaldan izleyerek beraber yaptığım python projelerdir.
 
+#dataentry
+gunleri kontrol etmeyi ogrendim turkce yapmayi ogrendim
 #radio-button
 radio button ogrendigim tek bir seyi secmemizi sagliyor
 #progressbar
@@ -90,7 +92,7 @@ degiskenlerle sayi yazmayi ve indeks bulmayi ogretir
 
 
 FOR ENGLİSH LANGUAGE
-# ATM,radio-button, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,Dictionary,SCALE, Inheritance,Operators,Format,Opp,String-slicing,label,placement  and Demo Quiz
+# ATM,radio-button, Number, Guessing Game, Culculator_Version_1 ,Culculator_Version_2,Dictionary,While,Yapayzekaylatekrargünü7,Variables-demo,Type-conversion,Specials,Break-continue,data entry,Dictionary,SCALE, Inheritance,Operators,Format,Opp,String-slicing,label,placement  and Demo Quiz
 These are Python projects that I have either built on my own or developed by following along with tutorials from a channel.
 
 #ATM
@@ -118,6 +120,9 @@ A simple application that helps us understand `if`, `else`, and `while True` con
 A radio button allows us to select one single item.
 #Calculator 2
 Creating the application's interface using label, button, and input commands
+
+#data entry
+I learned how to check the weapons; I also learned how to set the language to Turkish.
 
 #wikipedia
 KOLAY BİR WİKİMEDİA UYGULAMASİ BUTON FRAME VE Wikimedia kullanılmıştır
